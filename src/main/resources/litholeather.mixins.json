@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.m.litholeather.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "target": "DEFAULT",
+  "mixins": [
+    "NoAnimalSpawnMixin",
+    "TallGrassDropMixin",
+    "ChunkProviderMixin",
+    "CraftingAchievementMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

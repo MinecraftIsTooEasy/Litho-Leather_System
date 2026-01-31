@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "mite_litholeather",
+	"version": "${version}",
+	"name": "Litho-Leather_System",
+	"description": "真无动物+皮革改动!!!",
+	"authors": [
+		"M"
+	],
+	"contact": {
+		"homepage": "https://minecraftistooeasy.github.io/",
+		"sources": "https://github.com/MinecraftIsTooEasy/Litho-Leather_System"
+	},
+	"license": "CC0-1.0",
+	"icon": "icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.m.litholeather.LITHOLEATHERMod"
+		]
+	},
+	"mixins": [
+		"litholeather.mixins.json"
+	],
+	"accessWidener": "litholeather.accesswidener",
+	"depends": {
+		"fishmodloader": ">=3.4.0",
+		"minecraft": "1.6.4-mite",
+		"java": ">=17",
+		"rusted_iron_core": ">=1.3.5"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

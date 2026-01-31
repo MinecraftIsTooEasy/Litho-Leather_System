@@ -1,0 +1,15 @@
+# 岩鞣革系统 - 中文本地化
+
+# 物品
+item.flax_fiber.name=亚麻
+item.linen_cloth.name=亚麻布
+item.lichen_fragment.name=地衣岩碎片
+item.tannic_ash.name=鞣质岩粉
+item.flint_pickaxe.name=燧石镐
+
+# 方块
+tile.lichenstone.name=地衣岩
+
+# 成就
+achievement.beastlessCrafter=无兽之匠
+achievement.beastlessCrafter.desc=不杀生也能获得皮革

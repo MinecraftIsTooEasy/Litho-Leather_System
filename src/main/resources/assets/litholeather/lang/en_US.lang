@@ -1,0 +1,15 @@
+# Litho-Leather System - English Localization
+
+# Items
+item.flax_fiber.name=Flax Fiber
+item.linen_cloth.name=Linen Cloth
+item.lichen_fragment.name=Lichen Fragment
+item.tannic_ash.name=Tannic Ash
+item.flint_pickaxe.name=Flint Pickaxe
+
+# Blocks
+tile.lichenstone.name=Lichenstone
+
+# Achievements
+achievement.beastlessCrafter=Beastless Crafter
+achievement.beastlessCrafter.desc=Craft leather without harming animals
